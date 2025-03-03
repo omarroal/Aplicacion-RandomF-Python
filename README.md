@@ -21,11 +21,15 @@ del Machine Learning y su aplicación práctica en entornos reales, siendo asi d
 facilidad a la subida de datos y dar ciertos resultados exactos y correctos.
 
 Los objetivos principales incluyen:
+
 ● Analizar la evolución de las herramientas de análisis de datos y Machine Learning.
+
 ● Desarrollar aplicaciones interactivas con Shiny en R y Python que implementan
 algoritmos como Random Forest.
+
 ● Evaluar la eficacia de Shiny como plataforma para democratizar el uso del Machine
 Learning.
+
 ● Proporcionar casos de uso prácticos que demuestran cómo profesionales no
 especializados en programación pueden utilizar estas herramientas y explotar al
 máximo unos datos con este algoritmo.
